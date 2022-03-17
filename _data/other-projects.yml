@@ -1,0 +1,39 @@
+- name: ChatBot
+  url:  https://github.com/horlamiedea/Chatbot
+  code: https://github.com/horlamiedea/Chatbot
+  description: Chat robot with specific instructons to reply chats.
+  used:
+    - thing: Python
+    - thing: JavaScript
+    - thing: Ajax
+    - thing: Html
+
+- name: Twitter Clone
+  url: https://github.com/horlamiedea/Twitter-clone
+  code: https://github.com/horlamiedea/Twitter-clone
+  description: Twitter clone made with django 
+  used:
+    - thing: Python
+    - thing: Django
+    - thing: Html
+    - thing: Restframework
+    - thing: Postgresql
+
+
+- name: Pong Game
+  url: https://github.com/horlamiedea/kivy
+  code: https://github.com/horlamiedea/kivy
+  description: Moblile and Desktop game made with Kivy
+  used:
+    - thing: Python
+    - thing: Kivy
+
+
+- name: pinax-messages
+  url: https://github.com/horlamiedea/pinax-messages
+  code: https://github.com/horlamiedea/pinax-messages
+  description: a Django app for allowing users of your site to send messages to each other 
+  used:
+    - thing: Python
+    - thing: Django
+

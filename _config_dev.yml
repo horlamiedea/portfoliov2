@@ -1,0 +1,41 @@
+# Site settings
+name: Olamide Ajayi
+title: Olamide Ajayi | Software dev | Data analyst
+description: Solving problems
+url: https://bchiang7.github.io/
+baseurl: ''
+email: horlamiedea@gmail.com
+cover: https://bchiang7.github.io/img/og.png
+logo: https://bchiang7.github.io/img/emojis/rocket.png
+resume: https://drive.google.com/file/d/1dskdJhJ2d_DB4p7pSh9zGiR3t_xjaPQL/view?usp=sharing
+social:
+  - title: email
+    url: mailto:horlamiedea@gmail.com
+  - title: twitter
+    url: https://twitter.com/OlamideRichmond
+  - title: github
+    url: https://github.com/horlamiedea
+  - title: linkedin
+    url: https://www.linkedin.com/in/olamide-ajayi-31901b199/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

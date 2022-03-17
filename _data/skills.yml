@@ -1,0 +1,36 @@
+languages:
+  - item: Python 
+  - item: JavaScript (ES6)
+  - item: SQL
+  - item: R
+  - item: Linux
+  - item: HTML
+  - item: CSS/Sass
+
+  
+
+frameworks:
+  - item: Django
+  - item: Flask
+  - item: Node
+  - item: React
+  - item: Kivy
+  - item: Pandas
+  - item: Numpy
+  - item: Wordpress
+  - item: Wix
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Digital Ocean
+  - item: Linode
+  - item: Redis
+  - item: Postman
+  - item: MongoDB
+  - item: Postgresql
+  - item: Tableau
+  - item: Power Bi
+
+design:
+  - item: Figma
