@@ -13,5 +13,9 @@ gem 'jekyll-sitemap'
 
 gem 'rake'
 
+gem 'foreman'
 
+gem 'thin'
+
+gem 'rack-contrib'
 
